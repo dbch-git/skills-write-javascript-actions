@@ -39129,7 +39129,7 @@ WError.prototype.cause = function we_cause(c)
 /***/ 9761:
 /***/ ((module) => {
 
-module.exports = eval("require")("./@actions/core");
+module.exports = eval("require")("@actions/core");
 
 
 /***/ }),
