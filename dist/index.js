@@ -39126,7 +39126,7 @@ WError.prototype.cause = function we_cause(c)
 
 /***/ }),
 
-/***/ 9761:
+/***/ 5746:
 /***/ ((module) => {
 
 module.exports = eval("require")("@actions/core");
@@ -39539,7 +39539,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"application/1d-interleaved-parityfec
 /************************************************************************/
 var __webpack_exports__ = {};
 const getJoke = __nccwpck_require__(5253);
-const core = __nccwpck_require__(9761);
+const core = __nccwpck_require__(5746);
 
 async function run() {
   const joke = await getJoke();
